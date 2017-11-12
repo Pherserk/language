@@ -2,7 +2,7 @@
 
 namespace Pherserk\Language\model;
 
-class LanguageInterface
+interface LanguageInterface
 {
     public function getIso639Alpha2Code(): string;
 
