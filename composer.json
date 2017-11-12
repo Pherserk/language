@@ -1,0 +1,11 @@
+{
+    "name": "pherserk/language",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pherserk\\Language\\" : "src/"
+        }
+    }
+}
